@@ -2,7 +2,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩🏻‍💻 Jiseon's github</h2>
   <div style="font-weight:700; font-size:15px; color:#282d33;">
     🙌🏻 Junior Full Stack Developer <br/>
-    📧 How to reach me: easyxun@gmail.com
+    📧 easyxun@gmail.com
   </div>
 </div>
 
